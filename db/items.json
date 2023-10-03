@@ -1,0 +1,39 @@
+[
+    {
+        "name":"Airpod",
+        "price":"$20",
+        "size":"small",
+        "id":1
+    },
+    {
+        "name":"Jeans",
+        "price":"$50",
+        "size":"medium",
+        "id":2
+    },
+    {
+        "name":"Socks",
+        "price":"$5",
+        "size":"small",
+        "id":3
+    },
+    {
+        "name":"Bread",
+        "price":"$25",
+        "size":"medium",
+        "id":4
+    },
+    {
+        "name":"Orange",
+        "price":"N1000",
+        "size":"small",
+        "id":5
+    },
+    
+    {
+        "name":"Bag",
+        "price":"N5000",
+        "size":"medium",
+        "id":6
+    }
+]
